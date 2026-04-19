@@ -6,6 +6,10 @@ body {
   background-color: black;
 }
 
+.bg-pink{
+  background-color: rgb(255, 0, 93);
+}
+
 /* Hero Section */
 
 #Hero-Section {
